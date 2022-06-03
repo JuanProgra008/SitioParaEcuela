@@ -1,0 +1,35 @@
+details {
+    background-color: red;
+}
+body{
+    background: url(../imgs/cropped-1366-768-692166.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parrafo{
+    color: rgb(2, 253, 2);
+    font-size:larger;
+    padding: 5px;
+    border-radius: 77px;
+    background-color: rgb(9, 68, 194);
+    border: double 10px rgb(229, 255, 0);
+}
+#parrafoespecial {
+    background-color: rgb(10, 0, 145);
+    border-radius: 80px;
+    padding: 30px;
+    color: rgb(230, 255, 6);
+    border: double 14px rgb(51, 141, 153);
+}
+#parrafoespecial:hover {
+    font-size: large;
+    background-color: rgb(61, 28, 184);
+    border-radius: 80px;
+    padding: 30px;
+    color: rgb(230, 255, 6);
+    border: double 14px rgb(0, 225, 255);
+}
+p:hover{
+    text-decoration: underline;
+}
